@@ -1,6 +1,6 @@
 ## Welcome to the Borough of State College, PA
 
-![Logo](images/logo.png)
+![Logo](images/SCBL.png)
 
 The Borough of State College, PA is committed to open source development.  
 
